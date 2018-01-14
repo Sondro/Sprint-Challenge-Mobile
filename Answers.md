@@ -11,8 +11,8 @@
   - React Native is known for having better documentation.
 
 #### 2. In what ways is React Native different syntactically from React?
-  - Different imports, setup, and installation
-  - Different components
+  - Different imports, setup, and installation.
+  - Different components.
   - React Native has... 
      - More in-line styling similar but DIFFERENT than CSS.
      - An API named Animated for animation.
