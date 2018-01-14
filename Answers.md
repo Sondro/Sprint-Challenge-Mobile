@@ -15,7 +15,7 @@
   - Different components
   - React Native has... 
      - More in-line styling similar but DIFFERENT than CSS.
-     - An animated API for animation.
+     - An API named Animated for animation.
      - Uses PanResponder instead of touch events.
      - Navigator vs react-router.
      - iOS and Android specific code.
