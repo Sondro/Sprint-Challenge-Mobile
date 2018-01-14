@@ -1,4 +1,4 @@
- React Native Questions
+# React Native Questions
 
 #### 1. What makes React Native apps different from hybrid apps built with Cordova and the like?
   - React Native transpiles to Native C (Android) or Swift (iOS) code and has no auxilary purpose.
